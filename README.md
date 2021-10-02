@@ -5,7 +5,7 @@ Dark neumorphism analog clock with HTML, CSS and JavaScript.
 ___
 
 #### :link: Live Demo: 
-[Dark neumorphism analog clock](https://vlad-yermolayev.github.io/analog-clock/)
+[Dark neumorphism analog clock](https://vlad-yermolayev.github.io/dark-neumorphism-analog-clock/)
 
 [Free Figma and PSD layouts for you](https://t.me/assedo_studio_templates/)
 ___
